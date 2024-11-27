@@ -1,1 +1,2 @@
-hey this is my first commit
+for i in range(0,50):
+    print("oukdidir houda")
